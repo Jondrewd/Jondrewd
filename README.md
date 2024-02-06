@@ -23,7 +23,7 @@ Although I have no formal professional experience, I have completed several free
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /></h2>
 
 <h1>📱 Social: </h1>
-<a href="https://www.linkedin.com/in/jonas-sousa-93ba3826b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/> </a>
+<a href="https://www.linkedin.com/in/jonas-sousa-93ba3826b" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/> </a>
 
 <!--
 **Jondrewd/Jondrewd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
