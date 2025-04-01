@@ -1,5 +1,5 @@
 ### <h1>👋Hi there</h1>
-Hi, my name is Jonas and I am a Computer Science student in my final semester. I have experience in web development with React and Java, having participated in several academic and professional projects. I am fascinated by technology and innovation and I always try to learn new skills and tools.
+Hi, my name is Jonas and I am a Software Developer. I have experience in web development with React and Java, having participated in several academic and professional projects. I am fascinated by technology and innovation and I always try to learn new skills and tools.
 ### <h1>📖 Expertise</h1>
 My programming journey began during my Computer Science degree, where I was introduced to several programming languages, including Java. That's when I discovered my passion for web development and started exploring more about front-end and back-end.
 
