@@ -1,41 +1,72 @@
-### <h1>👋Hi there</h1>
-Hi, my name is Jonas and I am a Software Developer. I have experience in web development with React and Java, having participated in several academic and professional projects. I am fascinated by technology and innovation and I always try to learn new skills and tools.
-### <h1>📖 Expertise</h1>
-My programming journey began during my Computer Science degree, where I was introduced to several programming languages, including Java. That's when I discovered my passion for web development and started exploring more about front-end and back-end.
+### 👋 Olá!
 
-On the front-end, I started learning React, a JavaScript library for building user interfaces. Through several freelance projects, I gained practical experience in creating reusable components, managing states and props, and implementing routes using React Router. I also became familiar with using additional libraries such as Redux for state management and Axios for API calls.
+Meu nome é Jonas, sou desenvolvedor de software e tenho experiência em desenvolvimento web com React e Java. Participei de diversos projetos acadêmicos e profissionais, e sou fascinado por tecnologia e inovação. Sempre estou em busca de aprender novas habilidades e ferramentas.
 
-On the back-end, I deepened my knowledge of Java, learning about concepts such as encapsulation, inheritance and polymorphism. I also explored frameworks like Spring Boot, which allowed me to create robust and scalable web applications. I learned how to integrate SQL and NoSQL databases into my applications and how to implement authentication and authorization using JWT.
+---
 
-Although I have no formal professional experience, I have completed several freelance projects that have allowed me to apply and hone my skills. I'm always looking for new opportunities to learn and grow as a developer.
+### 📊 Minhas Estatísticas
 
-<h1>💣 Skills:</h1>
-<h2><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="	https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> 
-<img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /></h2>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=jondrewd&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="gráfico de streak" />
+</div>
 
-<h1>📱 Social: </h1>
-<a href="https://www.linkedin.com/in/jonas-sousa-93ba3826b" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/> </a>
+---
 
-<!--
-**Jondrewd/Jondrewd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Minha Experiência
 
-Here are some ideas to get you started:
+Minha jornada na programação começou durante minha graduação em Ciência da Computação, onde fui introduzido a várias linguagens de programação, incluindo Java. Foi nesse momento que descobri minha paixão pelo desenvolvimento web e comecei a explorar mais sobre o front-end e back-end.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+No front-end, comecei a aprender React, uma biblioteca JavaScript para construção de interfaces de usuário. Através de diversos projetos freelance, adquiri experiência prática criando componentes reutilizáveis, gerenciando estados e props, e implementando rotas com o React Router. Também me familiarizei com o uso de bibliotecas adicionais, como Redux para gerenciamento de estado e Axios para chamadas de API.
+
+No back-end, aprofundei meus conhecimentos em Java, estudando conceitos como encapsulamento, herança e polimorfismo. Explorei também frameworks como Spring Boot, que me permitiram criar aplicações web robustas e escaláveis. Aprendi como integrar bancos de dados SQL e NoSQL nas minhas aplicações e como implementar autenticação e autorização usando JWT.
+
+Embora eu ainda não tenha experiência formal no mercado de trabalho, realizei diversos projetos freelance que me permitiram aplicar e aprimorar minhas habilidades. Estou sempre em busca de novas oportunidades para aprender e crescer como desenvolvedor.
+
+---
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Jondrewd/Jondrewd/output/snake.svg" alt="Animação de cobra" />
+
+
+### 🛠️ Tecnologias
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="logo java" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="logo spring" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="logo react" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="logo javascript" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="logo python" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="logo mysql" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="logo mongodb" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="logo html5" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="logo css3" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="45" alt="logo gradle" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="logo docker" />
+</div>
+
+---
+
+### 📫 Contatos
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/jonas-developer" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+  <a href="mailto:jonasdeveloper@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  </a>
+</div>
+
+---
+
