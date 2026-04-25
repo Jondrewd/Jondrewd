@@ -1,72 +1,85 @@
-### 👋 Olá!
+<h1 align="center">Olá, eu sou Jonas Sousa 👋</h1>
 
-Meu nome é Jonas, sou desenvolvedor de software e tenho experiência em desenvolvimento web com React e Java. Participei de diversos projetos acadêmicos e profissionais, e sou fascinado por tecnologia e inovação. Sempre estou em busca de aprender novas habilidades e ferramentas.
+<p align="center">
+  Desenvolvedor de software com foco em <strong>Java</strong> e <strong>Spring Boot</strong>, atuando também na construção de interfaces modernas com <strong>Angular</strong> e <strong>React</strong>.
+</p>
+
+<p align="center">
+  Gosto de desenvolver aplicações web bem estruturadas, com integração eficiente entre frontend e backend, atenção à performance e boa experiência de usuário.
+</p>
 
 ---
 
-### 📊 Minhas Estatísticas
+## 🚀 Sobre mim
+
+Sou desenvolvedor de software com atuação em aplicações web, trabalhando principalmente com Java e Spring Boot no desenvolvimento e integração de sistemas. Também tenho experiência com Angular e React na criação de interfaces responsivas, organizadas e conectadas a APIs REST.
+
+Meu foco está em construir soluções consistentes entre backend e frontend, com código limpo, componentes reutilizáveis, boa manutenção e atenção à usabilidade. Gosto de participar de projetos em que arquitetura, integração e experiência do usuário caminham juntas.
+
+---
+
+## 🛠️ Tecnologias
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=jondrewd&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="gráfico de streak" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="Spring Boot" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="45" alt="Angular" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="TypeScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" alt="Bootstrap" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="Docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
 </div>
 
 ---
 
-### 💻 Minha Experiência
+## 💡 Áreas de interesse
 
-Minha jornada na programação começou durante minha graduação em Ciência da Computação, onde fui introduzido a várias linguagens de programação, incluindo Java. Foi nesse momento que descobri minha paixão pelo desenvolvimento web e comecei a explorar mais sobre o front-end e back-end.
+- Desenvolvimento backend com Java e Spring Boot.
+- Integração de sistemas e consumo de APIs REST.
+- Interfaces web com Angular e React.
+- Componentização, formulários reativos e organização de código.
+- Aplicações com foco em performance, manutenção e usabilidade.
 
-No front-end, comecei a aprender React, uma biblioteca JavaScript para construção de interfaces de usuário. Através de diversos projetos freelance, adquiri experiência prática criando componentes reutilizáveis, gerenciando estados e props, e implementando rotas com o React Router. Também me familiarizei com o uso de bibliotecas adicionais, como Redux para gerenciamento de estado e Axios para chamadas de API.
+---
 
-No back-end, aprofundei meus conhecimentos em Java, estudando conceitos como encapsulamento, herança e polimorfismo. Explorei também frameworks como Spring Boot, que me permitiram criar aplicações web robustas e escaláveis. Aprendi como integrar bancos de dados SQL e NoSQL nas minhas aplicações e como implementar autenticação e autorização usando JWT.
+## 📊 Estatísticas
 
-Embora eu ainda não tenha experiência formal no mercado de trabalho, realizei diversos projetos freelance que me permitiram aplicar e aprimorar minhas habilidades. Estou sempre em busca de novas oportunidades para aprender e crescer como desenvolvedor.
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=jondrewd&locale=pt-br&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub Streak" />
+</div>
+
+---
+
+## 📫 Contato
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jonas-developer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:jonass145ad@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Jondrewd">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Jondrewd/Jondrewd/output/snake.svg" alt="Animação de cobra" />
-
-
-### 🛠️ Tecnologias
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="logo java" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="logo spring" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="logo react" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="logo javascript" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="logo python" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="logo mysql" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="logo mongodb" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="logo html5" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="logo css3" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="45" alt="logo gradle" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="logo docker" />
-</div>
-
----
-
-### 📫 Contatos
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/jonas-developer" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  <a href="mailto:jonasdeveloper@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-  </a>
-</div>
-
----
-
